@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'DGCFileHandle_Example' do
+  pod 'DGCFileHandle', :path => '../'
+
+  target 'DGCFileHandle_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

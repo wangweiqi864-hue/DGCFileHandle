@@ -1,0 +1,16 @@
+PODS:
+  - DGCFileHandle (0.1.0)
+
+DEPENDENCIES:
+  - DGCFileHandle (from `../`)
+
+EXTERNAL SOURCES:
+  DGCFileHandle:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DGCFileHandle: eaf63f47dca9da8e0a577ceebaca7062aaf12734
+
+PODFILE CHECKSUM: c4a35ddfeb71e599570b6ed9db5a14781e147f93
+
+COCOAPODS: 1.15.2
