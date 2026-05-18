@@ -28,7 +28,7 @@ public class DGCFileUtils {
     
     private let dgc_fileManager = FileManager.default
 //    private let dgc_paths = NSSearchPathForDirectoriesInDomains(.documentDirectory, .userDomainMask, true)
-    private var dgc_rootDir = "/Mango/"
+    private var dgc_rootDir = "/ADLive/"
 
     
     private init() {
